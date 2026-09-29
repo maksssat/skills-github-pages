@@ -1,7 +1,6 @@
 ---
 title: Welcome to my blog!
 ---
-# Github Skills exercise
 
 - Monday
 - Tuesday
